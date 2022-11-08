@@ -98,6 +98,7 @@ public class PatientDAOH2 implements DAO<Patient> {
 
     @Override
     public boolean update(Patient patient) throws SQLException {
+        LOGGER.error("Iniciando update.");
         Connection connection = null;
         PreparedStatement preparedStatement = null;
 

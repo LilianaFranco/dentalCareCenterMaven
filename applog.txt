@@ -1,0 +1,9 @@
+INFO    2022-11-08 18:09:18,197 [main] com.liliana.Main  - dsdsd
+INFO    2022-11-08 18:14:10,102 [main] com.liliana.DAO.PatientDAOH2  - El paciente fue creado.
+ERROR   2022-11-08 18:14:10,164 [main] com.liliana.DAO.PatientDAOH2  - Iniciando update.
+INFO    2022-11-08 18:14:10,401 [main] com.liliana.DAO.PatientDAOH2  - El paciente fue encontrado en la base de datos y esta actualizado.
+INFO    2022-11-08 18:15:43,480 [main] com.liliana.DAO.DentistDAOH2  - El odontologo ha sido creado.
+INFO    2022-11-08 18:15:43,727 [main] com.liliana.DAO.DentistDAOH2  - El Odontologo fue encontrado en la base de datos y esta actualizado.
+INFO    2022-11-08 18:15:44,292 [main] com.liliana.DAO.PatientDAOH2  - El paciente fue creado.
+ERROR   2022-11-08 18:15:44,357 [main] com.liliana.DAO.PatientDAOH2  - Iniciando update.
+INFO    2022-11-08 18:15:44,488 [main] com.liliana.DAO.PatientDAOH2  - El paciente fue encontrado en la base de datos y esta actualizado.
