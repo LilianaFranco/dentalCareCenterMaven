@@ -13,7 +13,7 @@ public class DentistDAOH2 implements DAO<Dentist>{
     private static final String DB_USER = "root";
     private static final String DB_PASSWORD = "";
 
-    private static final Logger LOGGER = Logger.getLogger(Dentist.class);
+    private static final Logger LOGGER = Logger.getLogger(DentistDAOH2.class);
 
 
     @Override

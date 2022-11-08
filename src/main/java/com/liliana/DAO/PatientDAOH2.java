@@ -15,7 +15,7 @@ public class PatientDAOH2 implements DAO<Patient> {
     private static final String DB_USER = "root";
     private static final String DB_PASSWORD = "";
 
-    private static final Logger LOGGER = Logger.getLogger(Patient.class);
+    private static final Logger LOGGER = Logger.getLogger(PatientDAOH2.class);
 
 
     @Override
